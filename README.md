@@ -14,6 +14,7 @@ South Korea - 7.2 mil
 Colombia - 4.3 mil
 
 Some country sentiment analysis comparisons on twitter:
+
 https://www.scirp.org/html/7-1761710_85318.htm
 
 https://www.sciencedirect.com/science/article/pii/S0264410X21011063?casa_token=YMBSiAXzqh8AAAAA:GCJ-4QPTPGY_Ba8Oj2Cu3Q5WpW0Rs981q6faQEiU_EbzvWXkKT0XTcxCTh-88OB6MZcCQoYGyw
