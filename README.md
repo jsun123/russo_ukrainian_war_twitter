@@ -20,3 +20,7 @@ https://www.scirp.org/html/7-1761710_85318.htm
 https://www.sciencedirect.com/science/article/pii/S0264410X21011063?casa_token=YMBSiAXzqh8AAAAA:GCJ-4QPTPGY_Ba8Oj2Cu3Q5WpW0Rs981q6faQEiU_EbzvWXkKT0XTcxCTh-88OB6MZcCQoYGyw
 
 https://pmj.bmj.com/content/98/1161/544.abstract
+
+
+How to scrape twitter keywordS:
+https://christophegaron.com/scrape-tweets-containing-keywords/
